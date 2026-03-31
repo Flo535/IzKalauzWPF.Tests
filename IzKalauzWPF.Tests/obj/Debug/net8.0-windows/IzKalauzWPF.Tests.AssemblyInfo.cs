@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IzKalauzWPF.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cba23d08f26c7bc39c74c6e4975a46c0d2310772")]
 [assembly: System.Reflection.AssemblyProductAttribute("IzKalauzWPF.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IzKalauzWPF.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

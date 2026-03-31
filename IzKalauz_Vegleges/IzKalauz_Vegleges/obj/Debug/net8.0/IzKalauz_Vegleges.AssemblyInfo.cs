@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IzKalauz_Vegleges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cba23d08f26c7bc39c74c6e4975a46c0d2310772")]
 [assembly: System.Reflection.AssemblyProductAttribute("IzKalauz_Vegleges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IzKalauz_Vegleges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
