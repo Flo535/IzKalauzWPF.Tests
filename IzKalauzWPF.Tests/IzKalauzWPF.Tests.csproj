@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFramework>net8.0-windows</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
@@ -17,6 +17,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Izkalauz WPF\Izkalauz WPF.csproj" />
+	  <ProjectReference Include="..\..\..\..\..\..\WPF\Izkalauz WPF\Izkalauz WPF\Izkalauz WPF.csproj" />
 	</ItemGroup>
 </Project>
